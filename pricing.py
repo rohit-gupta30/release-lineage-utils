@@ -1,5 +1,5 @@
-LIBRARY_VERSION = "2.0.0"
-DISCOUNT_RATE = 0.10
+LIBRARY_VERSION = "3.0.0"
+DISCOUNT_RATE = 0.50
 
 
 def calculate_net_amount(amount):
